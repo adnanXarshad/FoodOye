@@ -1,0 +1,30 @@
+.Navigator {
+  background-color: #d8cab4;
+}
+ul {
+  font-family: cursive;
+}
+
+.navbar-brand {
+  margin-right: 50px;
+}
+
+.btn {
+  background-color: #f0696b;
+  color: white;
+  border: none;
+  margin: 3px;
+}
+
+.nav-link {
+  color: #43005e;
+}
+
+.nav-link:hover {
+  color: #b5221c;
+}
+.navbar-brand {
+  color: rgb(41, 41, 41);
+  font-family: cursive;
+  font-weight: 900;
+}

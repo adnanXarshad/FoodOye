@@ -1,0 +1,28 @@
+h4 {
+  color: #b5221c;
+}
+h5 {
+  color: #3d4f55;
+}
+
+.servings {
+  padding-top: 55px;
+  text-align: center;
+  align-content: center;
+}
+
+.row {
+  padding-top: 20px;
+  max-width: 60%;
+  margin: auto;
+}
+.card {
+  background-color: #d8cab4;
+  box-shadow: 10px 10px white;
+}
+
+.card-img-top {
+  height: 150px;
+  width: 150px;
+  margin: auto;
+}
